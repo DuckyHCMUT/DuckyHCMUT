@@ -6,7 +6,7 @@
 - Contact me via: https://www.facebook.com/DuckyHCMUT/ or https://twitter.com/DuckyHCMUT 🍦
 - 我的QQ号: 849184582 🐧
 
-Love dedicated to Nanahira（ななひら）🧀 and Choko-chan~（ちょこ）. 🍫
+Love dedicated to Nanahira（ななひら）🧀 and Choko-chan~（ちょこ）🍫. 
 - https://twitter.com/cho_v_ko
 - https://twitter.com/nanahira
 
