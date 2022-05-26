@@ -1,8 +1,7 @@
 - 你好, 我是DuckyHCMUT. 可能使用**简体中文 (从HSK3到HSK4)** 和有点儿繁体中文, 日本語(一般), **English**, **Vietnamese** OK!
-- I am a third-year student at Ho Chi Minh University of Technology. 
-- Currently focus on web programming (full-stack developer), software engineeering, software testing and other database stuff.
-- Learning to be a software engineer, software designer or software tester.
-- Able to code in: C, C++, C# (.NET Framework), Python (Django), Java, Javascript (ReactJS, NodeJS).
+- I am a fourth year student at Ho Chi Minh University of Technology. 
+- Currently learning web programming (full-stack developer), software engineeering, software testing and other database stuff.
+- Able to code in: C, C++, C# (.NET Framework), Python (Django Framework), Java, Javascript (ReactJS, NodeJS).
 - Contact me via: https://www.facebook.com/DuckyHCMUT/ or https://twitter.com/DuckyHCMUT 🍦
 - 我的QQ号: 849184582 🐧
 
