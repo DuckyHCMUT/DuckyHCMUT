@@ -1,5 +1,5 @@
 - 你好, 我是DuckyHCMUT. 可能使用**简体中文 (从HSK3到HSK4)** 和有点儿繁体中文, 日本語(一般), **English**, **Vietnamese** OK!
-- Fourth year (Senoir) student studying Software engineeering major at Ho Chi Minh University of Technology. 
+- Fourth year (Senior) student studying Software engineeering major at Ho Chi Minh University of Technology. 
 - Able to develop in: C, C++, C# (.NET Framework), Python, Java, Javascript, SQL.
 - Additional developing tools: Git, Atlassian Jira, Google Firebase.
 - Contact me via: https://www.facebook.com/DuckyHCMUT/ or https://twitter.com/DuckyHCMUT 🍦
