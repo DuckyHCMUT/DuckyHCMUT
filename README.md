@@ -1,16 +1,17 @@
 - 你好, 我是DuckyHCMUT. 可能使用**简体中文 (从HSK3到HSK4)** 和有点儿繁体中文, 日本語(一般), **English**, **Vietnamese** OK!
-- Fourth year (Senior) student studying Software engineeering major at Ho Chi Minh University of Technology. 
-- Able to develop in: C, C++, C# (.NET Framework), Python, Java, Javascript, SQL.
+- Fourth year student studying Software Engineeering major at Ho Chi Minh University of Technology.
+- Able to develop in: C, C++, C# (.NET Core, .NET Framework, ASP.NET), Python, Java, Javascript, SQL.
 - Additional developing tools: Git, Atlassian Jira, Google Firebase.
 - Contact me via: https://www.facebook.com/DuckyHCMUT/ or https://twitter.com/DuckyHCMUT 🍦
 - 我的QQ号: 849184582 🐧
 
-Love dedicated to Nanahira（ななひら）🧀 and Choko-chan~（ちょこ）🍫. 
-- https://twitter.com/cho_v_ko
-- https://twitter.com/nanahira
 
-![image](https://user-images.githubusercontent.com/75155228/158004899-c28a953a-ec22-49d3-a739-d6352abf4883.png)
-![image](https://user-images.githubusercontent.com/75155228/158004905-dbe0f49c-5958-4ae4-b11c-fcd8f22101c0.png)
+**Motivation**: 
+
+<img align="center" src="https://user-images.githubusercontent.com/75155228/198827468-c7019fac-3124-4322-a9ae-ffa7f9f696cb.png" alt="chokochan" width="50"/> [ﾁｮｺﾁｬﾝ🍫](https://twitter.com/cho_v_ko)
+
+<img align="center" src="https://user-images.githubusercontent.com/75155228/198827882-f268fcff-6a1c-4771-bb83-1fb9d54b1f81.png" alt="nanahira" width="50"/> [ななひ～🧀](https://twitter.com/nanahira)
+
 
 
 <!---
